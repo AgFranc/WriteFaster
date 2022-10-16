@@ -4,7 +4,9 @@
 
 # Herramienta Para que puedas escribir rapido
 
-Esta herramienta de codigo abierto te permite escribir más rápido haciendo uso de atajos de teclado localizados cerca de las teclas con letras 
+Esta herramienta de codigo abierto te permite escribir más rápido haciendo uso de atajos de teclado localizados cerca de las teclas con letras.
+Es decir cambia la localización de las flechas del teclado.
+
 
 
 
@@ -17,7 +19,17 @@ Necesitas haber instalado AutoHotKey
     https://www.autohotkey.com/
  
 ```
-        
+   
+## ⌨ Cómo usarlo?
+Luego de haber abierto el programa, puedes usarlo presionando
+```bash
+    ALT + TECLA
+    TECLA:
+    "l" para mover hacia la derecha
+    "i" para mover hacia arriba
+    "k" para mover hacia abajo
+    "j" para mover hacia la izquierda
+```
 ## Autor
 
 - [@AgFranc](https://github.com/AgFranc)
