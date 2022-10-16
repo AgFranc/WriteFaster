@@ -2,7 +2,7 @@
 ![Logo](https://github.com/AgFranc/WriteFaster/blob/main/banner.png)
 
 
-# Python script para aumentar nuestro vocabulario 
+# Herramienta Para que puedas escribir rapido
 
 Esta herramienta de codigo abierto te permite escribir más rápido haciendo uso de atajos de teclado localizados cerca de las teclas con letras 
 
