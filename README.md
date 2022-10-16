@@ -44,7 +44,13 @@ Insert gif or link to demo
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-
+Por qué ? 🤔
+------------
+* Quería usar una herramienta ligera y libre para moverme rapido con las flechas.
+* Prefiero usar el teclado para hacer cosas.
+* No se almacena, rastrea ni comparte información de usuario.
+* Me gusta usar el teclado.
+* El movimiento de la mano hacia las flechas repetidas veces convierte esos segundos en minutos.
  
 
 ## Apendice
