@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/AgFranc/WriteFaster/blob/main/banner.png)
+![Logo](https://github.com/AgFranc/WriteFaster/blob/main/índice.png )
 
 
 # Herramienta Para que puedas escribir rapido
